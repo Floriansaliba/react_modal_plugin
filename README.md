@@ -4,6 +4,11 @@
 
 [![NPM](https://img.shields.io/npm/v/react-modal.svg)](https://www.npmjs.com/package/react-modal) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
+## What is it? 
+
+This is a react componant able to display in full screen or hide a modal from its parent componant. 
+You can install it in your react application to speed up your modal development, and modify its style as you wish. 
+
 ## Install
 
 ```bash
